@@ -2,7 +2,7 @@
 //  ButtonControl.swift
 //  LearnTheBasic
 //
-//  Created by MacBook Pro on 05/04/24.
+//  Created by Dicky Fahriza on 05/04/24.
 //
 
 import SwiftUI
@@ -22,12 +22,12 @@ struct ButtonControl: View {
             
             // 2. Role button
             Button(role: .destructive) {
-                
+                print("Destructive button tapped")
             } label: {
                 Text("Destructive Button")
             }
             .buttonStyle(.bordered)
-            .controlSize(.extraLarge)
+            .controlSize(.large)
             
             // 3. Custom button
             Button {

@@ -2,7 +2,7 @@
 //  SegmenetedControlView.swift
 //  LearnTheBasic
 //
-//  Created by MacBook Pro on 05/04/24.
+//  Created by Dicky Fahriza on 05/04/24.
 //
 
 import SwiftUI
